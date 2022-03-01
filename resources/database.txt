@@ -1,0 +1,20 @@
+﻿SNR_SNR-CPE-ME1 router 10Mb/s 160
+TP-Link_Archer_C20 router 100Mb/s 89
+Keenetic_City_KN-1511 router 100Mb/s 119
+Xiaomi_Mi_Router_4a_Gigabit_Edition router 1Gb/s 80
+TP-Link_Archer_MR600 router 1Gb/s 396
+ASUS_RT-AX92U router 10Gb/s 743
+Ubiquiti_AmpliFi_Alien router 10Gb/s 832
+D-Link_DES-1008C/B1A commutator 100Mb/s 34 8
+D-Link_DES-1016A/E1B commutator 100Mb/s 97 16
+TP-Link_TL-SF1048 commutator 100Mb/s 406 48
+TP-Link_TL-SG105 commutator 1Gb/s 52 5
+Mikrotik_CRS125-24G-1S-2HnD-IN commutator 1Gb/s 744 24
+D-Link_DGS-1210-52/F2A commutator 1Gb/s 1132 48
+OfficeConnect_1850_JL169A commutator 10Gb/s 1751 6
+D-Link_DXS-1210-28T/A1A commutator 10Gb/s 6451 24
+Huawei_CE6851-48S6Q-HI commutator 10Gb/s 13154 48
+ADSL cable 10Mb/s 5
+CAT6 cable 100Mb/s 13
+CAT7 cable 1Gb/s 32
+оптоволокно cable 10Gb/s 45
